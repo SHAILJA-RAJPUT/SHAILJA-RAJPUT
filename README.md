@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/Open%20to%20Work-38BDF8?style=for-the-badge&logo=greenhouse&logoColor=white" />
 
 <img src="https://komarev.com/ghpvc/?username=SHAILJA-RAJPUT&label=Profile%20Views&color=38bdf8&style=flat" />
-<img src="https://img.shields.io/github/followers/SHAILJA-RAJPUT?label=Followers&style=flat&color=38bdf8" />
 
 </div>
 

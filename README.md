@@ -130,20 +130,6 @@ ASP.NET Core Web API project showcasing RESTful service design and backend archi
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SHAILJA-RAJPUT&show_icons=true&theme=nord&border_color=38bdf8&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAILJA-RAJPUT&layout=compact&theme=nord&border_color=38bdf8&title_color=38bdf8&text_color=c9d1d9" width="42%" />
-
-<img src="https://streak-stats.demolab.com?user=SHAILJA-RAJPUT&theme=nord&border=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="90%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=SHAILJA-RAJPUT&theme=nord&no-frame=true&no-bg=true&row=1&column=7" width="90%" />
-
-</div>
-
-
 ## 📫 Connect With Me
 
 <div align="center">

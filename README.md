@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=220&section=header&text=Shailja%20Rajput&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=.NET%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:38bdf8,100:0ea5e9&height=250&section=header&text=Shailja%20Rajput&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=.NET%20Developer&descAlignY=55&descSize=22" width="100%"/>
 
 <a href="https://github.com/SHAILJA-RAJPUT">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=.NET+Core+%7C+ASP.NET+Core+Web+API;Angular+%7C+SQL+Server+%7C+EF+Core;Building+scalable+REST+APIs;Docker+%2B+CI%2FCD+%7C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=.NET+Core+%7C+ASP.NET+Core+Web+API;Angular+%7C+SQL+Server+%7C+EF+Core;Building+Scalable+REST+APIs+%F0%9F%9A%80;Docker+%2B+CI%2FCD+%7C+Always+Learning" alt="Typing SVG" />
 </a>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/grow.gif" width="500">
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-38BDF8?style=for-the-badge&logo=greenhouse&logoColor=white" />
 
@@ -137,13 +139,7 @@ ASP.NET Core Web API project showcasing RESTful service design and backend archi
 
 </div>
 
-## 📈 Contribution Activity
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAILJA-RAJPUT&theme=nord&hide_border=true&color=38bdf8&line=38bdf8&point=ffffff" width="90%" />
-</div>
-
-<br/>
 
 ## 📫 Connect With Me
 
@@ -157,4 +153,4 @@ ASP.NET Core Web API project showcasing RESTful service design and backend archi
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:38bdf8,100:0f172a&height=150&section=footer&animation=twinkling" width="100%"/>

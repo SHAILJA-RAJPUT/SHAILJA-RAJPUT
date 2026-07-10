@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=.NET+Core+%7C+ASP.NET+Core+Web+API;Angular+%7C+SQL+Server+%7C+EF+Core;Building+Scalable+REST+APIs+%F0%9F%9A%80;Docker+%2B+CI%2FCD+%7C+Always+Learning" alt="Typing SVG" />
 </a>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/grow.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-38BDF8?style=for-the-badge&logo=greenhouse&logoColor=white" />
 
@@ -104,6 +104,10 @@ ASP.NET Core Web API project showcasing RESTful service design and backend archi
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=cs" />
@@ -138,7 +142,6 @@ ASP.NET Core Web API project showcasing RESTful service design and backend archi
 <img src="https://github-profile-trophy.vercel.app/?username=SHAILJA-RAJPUT&theme=nord&no-frame=true&no-bg=true&row=1&column=7" width="90%" />
 
 </div>
-
 
 
 ## 📫 Connect With Me

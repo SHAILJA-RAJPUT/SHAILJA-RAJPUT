@@ -1,138 +1,214 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=220&section=header&text=Shailja%20Rajput&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=.NET%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563eb,100:38bdf8&text=Shailja%20Rajput&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=.NET%20Backend%20Developer%20|%20ASP.NET%20Core%20|%20Web%20API&descAlignY=55"/>
 
-<a href="https://github.com/SHAILJA-RAJPUT">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=.NET+Core+%7C+ASP.NET+Core+Web+API;Angular+%7C+SQL+Server+%7C+EF+Core;Building+scalable+REST+APIs;Docker+%2B+CI%2FCD+%7C+Always+Learning" alt="Typing SVG" />
-</a>
+# Hi 👋 I'm Shailja Rajput
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-38BDF8?style=for-the-badge&logo=greenhouse&logoColor=white" />
+### 🚀 .NET Backend Developer | ASP.NET Core | REST APIs | SQL Server
 
-<img src="https://komarev.com/ghpvc/?username=SHAILJA-RAJPUT&label=Profile%20Views&color=38bdf8&style=flat" />
+Building scalable, production-ready backend applications using modern .NET technologies.
+
+<img src="https://komarev.com/ghpvc/?username=SHAILJA-RAJPUT&label=Profile+Views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge"/>
 
 </div>
 
-<br/>
+---
 
-## 👩‍💻 Who I Am
+# 👩‍💻 About Me
 
-```typescript
-const shailjaRajput = {
-  title: ".NET Developer",
-  stack: {
-    languages: ["C#"],
-    backend: ["ASP.NET Core Web API", ".NET Core", "MVC", "EF Core"],
-    frontend: ["Angular"],
-    database: ["SQL Server"],
-    auth: ["JWT Authentication"],
-    devops: ["Docker", "CI/CD"],
-    tools: ["Postman", "Swagger", "Git"]
-  },
-  launchedProjects: [
-    "Pagination-in-ASP.NET-CORE-WEB-API",
-    "CRUD",
-    "Web-API"
-  ],
-  status: "Building REST APIs & leveling up backend architecture",
-  openTo: "New opportunities as a .NET Developer"
-};
-```
+- 💻 Backend Developer specializing in **ASP.NET Core Web API**
+- ⚙️ Passionate about building **Production Ready APIs**
+- 🔐 Experienced with **JWT Authentication**
+- ⚡ Strong knowledge of **Entity Framework Core**
+- 🗄️ SQL Server Database Design
+- 🚀 Learning **Microservices Architecture**
+- 🐳 Docker & Containerization
+- 📚 Always improving Backend Architecture & Clean Code
 
-<br/>
+---
 
-## 🚀 Featured Projects
+# 🚀 Tech Stack
 
-### 📦 Pagination-in-ASP.NET-CORE-WEB-API
+## Languages
 
-Implementation of efficient pagination in ASP.NET Core Web APIs for handling large datasets.
+<p>
+<img src="https://skillicons.dev/icons?i=cs"/>
+</p>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAILJA-RAJPUT&repo=Pagination-in-ASP.NET-CORE-WEB-API&theme=nord&border_color=38bdf8&title_color=38bdf8" />
-</div>
+## Backend
 
-| Layer | Technology |
-|---|---|
-| Backend | ASP.NET Core Web API |
-| Language | C# |
-| Data Access | Entity Framework Core |
-| Database | SQL Server |
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+</p>
 
-🔗 **Code:** [SHAILJA-RAJPUT/Pagination-in-ASP.NET-CORE-WEB-API](https://github.com/SHAILJA-RAJPUT/Pagination-in-ASP.NET-CORE-WEB-API)
+- ASP.NET Core
+- ASP.NET MVC
+- Web API
+- Entity Framework Core
+- LINQ
+- Dependency Injection
+- Middleware
+- Repository Pattern
 
-<br/>
+---
 
-### 📦 CRUD
+## Database
 
-A complete CRUD application built with ASP.NET Core Web API demonstrating core REST principles.
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAILJA-RAJPUT&repo=CRUD&theme=nord&border_color=38bdf8&title_color=38bdf8" />
-</div>
+<img src="https://skillicons.dev/icons?i=mssql"/>
+</p>
 
-| Layer | Technology |
-|---|---|
-| Backend | ASP.NET Core Web API |
-| Language | C# |
-| Data Access | Entity Framework Core |
-| Database | SQL Server |
+- SQL Server
+- Stored Procedures
 
-🔗 **Code:** [SHAILJA-RAJPUT/CRUD](https://github.com/SHAILJA-RAJPUT/CRUD)
+---
 
-<br/>
+## Frontend
 
-### 📦 Web-API
+<p>
+<img src="https://skillicons.dev/icons?i=angular,html,css,ts"/>
+</p>
 
-ASP.NET Core Web API project showcasing RESTful service design and backend architecture.
+---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAILJA-RAJPUT&repo=Web-API&theme=nord&border_color=38bdf8&title_color=38bdf8" />
-</div>
+## DevOps & Tools
 
-| Layer | Technology |
-|---|---|
-| Backend | ASP.NET Core Web API |
-| Language | C# |
-| Data Access | Entity Framework Core |
-| Database | SQL Server |
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,visualstudio,postman"/>
+</p>
 
-🔗 **Code:** [SHAILJA-RAJPUT/Web-API](https://github.com/SHAILJA-RAJPUT/Web-API)
+---
 
-<br/>
+# ⭐ Featured Projects
 
-## 🛠️ Tech Stack
+## 🚀 Production Ready Redis Caching
 
-**Languages**
+Production implementation of Redis Cache using
 
-<img src="https://skillicons.dev/icons?i=cs" />
+✔ Repository Pattern
 
-**Frontend**
+✔ Dependency Injection
 
-<img src="https://skillicons.dev/icons?i=angular,ts,html,css" />
+✔ Cache Aside Pattern
 
-**Backend / Infra**
+✔ SQL Server
 
-<img src="https://skillicons.dev/icons?i=dotnet,docker" />
+✔ ASP.NET Core
 
-**Cloud / AI / DB**
+✔ IDistributedCache
 
-<img src="https://skillicons.dev/icons?i=mssql" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAILJA-RAJPUT&repo=Redis-Caching&theme=github_dark"/>
 
-**Dev Tools**
+---
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,swagger,visualstudio" />
+## 🚀 Global Exception Handling + Serilog
 
-<br/>
+Production-ready logging implementation using
 
-## 📫 Connect With Me
+✔ Custom Middleware
 
-<div align="center">
+✔ Serilog
+
+✔ Structured Logging
+
+✔ Global Exception Handling
+
+✔ Clean Architecture
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAILJA-RAJPUT&repo=Global-Exception-Handling-with-Serilog-in-ASP.NET-Core&theme=github_dark"/>
+
+---
+
+## 🚀 Pagination Web API
+
+Production implementation of Pagination using
+
+✔ Entity Framework Core
+
+✔ SQL Server
+
+✔ ASP.NET Core
+
+✔ REST APIs
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAILJA-RAJPUT&repo=Pagination-in-ASP.NET-CORE-WEB-API&theme=github_dark"/>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SHAILJA-RAJPUT&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAILJA-RAJPUT&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAILJA-RAJPUT&theme=github-compact"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Microservices Architecture
+- API Gateway
+- Docker Compose
+- RabbitMQ
+- Clean Architecture
+- Azure Fundamentals
+- Unit Testing
+- xUnit
+- CI/CD Pipelines
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build Production Ready Microservices
+
+✅ Azure Deployment
+
+✅ Authentication & Authorization
+
+✅ Distributed Caching
+
+✅ Docker + Kubernetes Basics
+
+✅ Messaging using RabbitMQ
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
 
 <a href="mailto:shailja.rajput@outlook.com">
-  <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+
 </a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories.
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=150&section=footer&animation=twinkling" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:2563eb,100:38bdf8&section=footer"/>
